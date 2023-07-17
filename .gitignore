@@ -1,0 +1,4 @@
+
+.DS_Store
+*.bin
+sample_model/input/mnist_train.csv
